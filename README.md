@@ -30,9 +30,9 @@ Pré-requisitos: Java 11
 ```bash
 # clonar repositórios
 git clone https://github.com/ElvesNogueira/Chess-system-java
-git clone https://github.com/ElvesNogueira/bin_xadrez
+git clone https://github.com/ElvesNogueira/bin
 
-# executar o projeto na pasta bin
+# executar o terminal do git bash pasta bin
  java application/Program
 
 
