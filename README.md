@@ -31,11 +31,8 @@ Pré-requisitos: Java 11
 # clonar repositório
 git clone https://github.com/ElvesNogueira/Chess-system-java
 
-# entrar na pasta bin
-Abrir o terminal do git Bash na pasta bin do projeto
-
-# executar o projeto
-digite o comando: java application/Program
+# executar o projeto na pasta bin
+ java application/Program
 
 
 ```
