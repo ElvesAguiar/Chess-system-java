@@ -28,8 +28,9 @@ Pré-requisitos: Java 11
 
 
 ```bash
-# clonar repositório
+# clonar repositórios
 git clone https://github.com/ElvesNogueira/Chess-system-java
+git clone https://github.com/ElvesNogueira/bin_xadrez
 
 # executar o projeto na pasta bin
  java application/Program
